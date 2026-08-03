@@ -45,9 +45,9 @@ This Capstone introduces the complete workflow of building a small Python applic
 
 While building it, you'll practice:
 
-- building a web interface with Streamlit;
+- building a web interface with `Streamlit`;
 - collecting real-world data using `yfinance`;
-- visualizing data with Matplotlib;
+- visualizing data with `Matplotlib`;
 - creating a project that can be shared with other people.
 
 Although the application is simple, it follows the same development process used for much larger projects.
