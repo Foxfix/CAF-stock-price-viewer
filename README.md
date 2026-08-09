@@ -145,3 +145,29 @@ That's where the real learning happens.
     <img src="https://img.shields.io/badge/▶%20Watch%20on-YouTube-red?style=for-the-badge&logo=youtube" alt="Watch on YouTube">
   </a>
 </p>
+
+<p align="center">
+  <strong>Get in Touch</strong>
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/@CodeAiFlow">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+  &nbsp;
+  <a href="https://bsky.app/profile/codeaiflow.bsky.social">
+    <img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky">
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/codeaiflow/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  &nbsp;
+  <a href="https://medium.com/@codeaiflow">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
+  </a>
+  &nbsp;
+  <a href="https://dev.to/helga_code">
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to">
+  </a>
+</p>
