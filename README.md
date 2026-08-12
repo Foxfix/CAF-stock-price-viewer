@@ -1,3 +1,11 @@
+---
+
+## 📚 Part of a practical **AI & Machine Learning Workspace** 
+✨ *A detailed, real-world task for this repository, included in the full guide*  👉 [AI & Machine Learning Workspace
+](https://codeaiflow.cloud/b/ai-machine-learning-workspace)
+
+---
+
 # 📈 CAF Capstone: Stock Price Viewer
 
 Build and deploy an interactive web application that compares the historical stock prices of two publicly traded companies.
